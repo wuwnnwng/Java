@@ -4,9 +4,8 @@ import java.util.Iterator;
 import java.util.NoSuchElementException;
 
 /**
- * Collection which does not allow removing elements (only collect and iterate)
- *
- * @param <Element> - the generic type of an element in this bag
+*mkhj
+ * @param <Element>  - 此包中元素的泛型类型
  */
 public class Bag<Element> implements Iterable<Element> {
 
